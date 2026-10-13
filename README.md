@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! I'm Jonsstat 👋</h1>
-<h3 align="center">Programming student | Python | Data Science</h3>
+<h3 align="center">Machine without conscience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Learning+Python;Exploring+data+science;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Machine+without+conscience;Running+on+curiosity;Always+building+something+new" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js" />
 </p>
 
 ### 📊 Stats
@@ -20,14 +20,9 @@
   <img src="https://streak-stats.demolab.com?user=Jonsstat&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 Trophies
+### 📈 Contributions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonsstat&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-### 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonsstat&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/36BCF7/Jonsstat" alt="Contribution chart" />
 </p>
 
 ### 📫 Contact
